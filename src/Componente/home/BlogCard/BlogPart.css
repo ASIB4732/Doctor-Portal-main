@@ -1,0 +1,26 @@
+
+.header-Part{
+    display: flex;
+    margin-top: 20px;
+}
+.header-Part div h4{
+   color : linear-gradient(#19D1AC,#0FCFEC);
+}
+.boxs{
+    height: 100%;
+    box-shadow: 1px 1px 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.header-Part img{
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.discriptions{
+    margin-top: 20px;
+}
+.discriptions p{
+margin-top: 30px;
+}

@@ -1,0 +1,48 @@
+.CONTACTUS{
+    margin-top: 110px;
+    background-image: url(../../../images/Mask\ Group\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 650px;
+    background-position:center center;
+}
+.CONTACTUS::before{
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgb(36, 41, 73) ;
+    opacity: .7;
+    top:0;
+}
+.CONTACTUS-box{
+    transform: translateY(0px);
+    
+}
+.margin{
+    padding: 80px;
+}
+
+.input-text{
+   width: 70%;
+   height: 60px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    transform: translateY(0px);
+}
+.input-Message{
+    transform: translateY(0px);
+    width: 70%;
+    height: 150px;
+     border-radius: 4px;
+     margin-bottom: 20px;
+}
+.submit{
+    transform: translateY(0px);
+    width: 200px;
+    height: 43px;
+     border-radius: 4px;
+     background-color: #1CC7C1;
+}

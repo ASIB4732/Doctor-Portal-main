@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(241, 239, 239);
+}
+.button{
+    text-align: center;
+}
+.LoginImg{
+    width: 100%;
+}
+.box{
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgb(175, 168, 168);
+    background-color: white;
+    height: 130px;
+}
